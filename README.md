@@ -1,4 +1,4 @@
-# rating-api 1
+# rating-api
 
 Container exposes port 8080.
 Required configuration via environment variables:
